@@ -1,0 +1,4 @@
+Change temperature.cpp on: Marlin/src/temperature.cpp
+Change controllerfan.cpp on: Marlin/src/module/controllerfan.cpp
+
+www.selva3d.com.ar
